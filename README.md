@@ -4,6 +4,7 @@ Microsserviço de **Leitores** do sistema [Repositório das Letras](https://gith
 
 Gerencia o cadastro de leitores, a situação (`Ativo`, `Inativo`, `Bloqueado`) e o valor da dívida.
 
+
 ## Endpoints
 
 | Método | Rota                            | Descrição                                   |
